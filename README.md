@@ -1,61 +1,65 @@
+# README.md
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=02000D&height=200&section=header&text=Vijay%20Hayagrivan%20R&fontSize=60&fontColor=D9AA90&desc=Mechatronics%20%7C%20Embedded%20Systems%20%7C%20Firmware&descSize=20&descAlignY=70&descFontColor=A65E46)](https://github.com/vijayhayagrivan2004-creator)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Vijay%20Hayagrivan%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+## Hey there, I'm Vijay Hayagrivan R 👋
 
-# Hey there, I'm Vijay Hayagrivan R 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D9AA90&center=true&vCenter=true&width=600&lines=Mechatronics+Engineering+Student;Embedded+Systems+Enthusiast;C+%7C+C%2B%2B+%7C+Python;Embedded+C+Developer;ARM+Cortex-M+Learner;Building+Hardware+%2B+Software+Projects;Learning+Firmware+Development)](https://github.com/vijayhayagrivan2004-creator)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=Mechatronics+Engineering+Student;Embedded+Systems+Enthusiast;C+%7C+C%2B%2B+%7C+Python;Embedded+C+%7C+ARM+Cortex-M;Learning+Firmware+Development;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+---
 
-<br>
+### 📊 GitHub At a Glance
 
-<a href="https://github.com/vijayhayagrivan2004-creator">
-<img src="https://img.shields.io/github/followers/vijayhayagrivan2004-creator?style=for-the-badge&label=Followers&color=EF93C4" />
-</a>
-
-<a href="https://github.com/vijayhayagrivan2004-creator?tab=repositories">
-<img src="https://img.shields.io/github/stars/vijayhayagrivan2004-creator?style=for-the-badge&label=Stars&color=FF69B4" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=vijayhayagrivan2004-creator&style=for-the-badge&label=Profile+Views&color=F8BBD0" />
+![GitHub Followers](https://img.shields.io/github/followers/vijayhayagrivan2004-creator?style=flat-square&color=A65E46&labelColor=07203F&textColor=EBDED4)
+![GitHub Stars](https://img.shields.io/github/stars/vijayhayagrivan2004-creator?style=flat-square&color=A65E46&labelColor=07203F&textColor=EBDED4)
+![Profile Views](https://komarev.com/ghpvc/?username=vijayhayagrivan2004-creator&color=A65E46&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📍 About Me
 
 <table>
-<tr>
-<td width="65%" valign="top">
-
-I'm **Vijay Hayagrivan R**, a Mechatronics Engineering student interested in **Embedded Systems, Firmware Development and IoT**.
-
-- 🎓 Mechatronics Engineering Student
-- 💻 Learning and building with **C, C++ and Python**
-- ⚙️ Working with **Embedded C**
-- 🧠 Learning **ARM Cortex-M fundamentals**
-- 🔧 Familiar with **Git, GitHub and CMake**
-- 🧩 Building fundamentals in **Basic DSA**
-- 🚀 Interested in hardware-software integration
-- 📚 Continuously learning through projects
-
-### Current Focus
-
-`C` `C++` `Python` `Embedded C` `ARM Cortex-M` `CMake` `Git` `GitHub` `Basic DSA`
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,cmake,vscode,linux" width="280"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayhayagrivan2004-creator&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="100%"/>
-
-</td>
-</tr>
+  <tr>
+    <td width="65%">
+      <p>Hi, I'm Vijay—a Mechatronics Engineering student passionate about embedded systems and firmware development. I'm building a strong foundation in C/C++ and Embedded C, exploring ARM Cortex-M microcontrollers, and learning how to integrate hardware and software effectively.</p>
+      
+      <p>I work with <strong>Git, GitHub, CMake,</strong> and <strong>VS Code</strong> on Linux. Currently focused on mastering embedded programming fundamentals and basic data structures & algorithms.</p>
+      
+      <p>I enjoy exploring the intersection of hardware and software—designing systems that think and act at the silicon level.</p>
+    </td>
+    <td width="35%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Mechatronics-Engineering-D9AA90?style=for-the-badge&labelColor=02000D" alt="Mechatronics" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-A65E46?style=for-the-badge&labelColor=02000D" alt="Embedded" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Learning-Firmware%20Dev-D9AA90?style=for-the-badge&labelColor=02000D" alt="Firmware" />
+      </div>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🔧 Current Focus
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A65E46?style=flat-square&logo=c&logoColor=EBDED4&labelColor=07203F)
+![C++](https://img.shields.io/badge/C%2B%2B-A65E46?style=flat-square&logo=cplusplus&logoColor=EBDED4&labelColor=07203F)
+![Python](https://img.shields.io/badge/Python-A65E46?style=flat-square&logo=python&logoColor=EBDED4&labelColor=07203F)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-D9AA90?style=flat-square&labelColor=02000D)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-D9AA90?style=flat-square&labelColor=02000D)
+![Git](https://img.shields.io/badge/Git-A65E46?style=flat-square&logo=git&logoColor=EBDED4&labelColor=07203F)
+![GitHub](https://img.shields.io/badge/GitHub-A65E46?style=flat-square&logo=github&logoColor=EBDED4&labelColor=02000D)
+![CMake](https://img.shields.io/badge/CMake-D9AA90?style=flat-square&labelColor=07203F)
+![Basic DSA](https://img.shields.io/badge/Basic%20DSA-A65E46?style=flat-square&labelColor=02000D)
+
+</div>
 
 ---
 
@@ -63,49 +67,48 @@ I'm **Vijay Hayagrivan R**, a Mechatronics Engineering student interested in **E
 
 <div align="center">
 
-### Programming
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![CMake](https://skillicons.dev/icons?i=cmake)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python" height="60"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,cmake,vscode,linux" height="60"/>
-
-<br><br>
-
-### Embedded Systems
-
-<img src="https://img.shields.io/badge/Embedded%20C-EF93C4?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARM%20Cortex--M-F8BBD0?style=for-the-badge&logo=arm&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Basic%20DSA-FF69B4?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+**Embedded C** · **ARM Cortex-M Basics**
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayhayagrivan2004-creator&show_icons=true&hide_border=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" width="48%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vijayhayagrivan2004-creator&show_icons=true&theme=dark&bg_color=02000D&title_color=D9AA90&text_color=EBDED4&icon_color=A65E46&border_color=A65E46&border_radius=10" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayhayagrivan2004-creator&layout=compact&hide_border=true&theme=transparent&title_color=EF93C4&text_color=F8BBD0" width="48%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=vijayhayagrivan2004-creator&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=F8BBD0" width="70%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayhayagrivan2004-creator&layout=compact&theme=dark&bg_color=02000D&title_color=D9AA90&text_color=EBDED4&border_color=A65E46&border_radius=10" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayhayagrivan2004-creator&bg_color=00000000&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vijayhayagrivan2004-creator&theme=highcontrast&background=02000D&stroke=A65E46&ring=D9AA90&fire=A65E46&currStreakNum=EBDED4&sideNums=D9AA90&currStreakLabel=D9AA90&sideLabels=D9AA90)](https://github.com/vijayhayagrivan2004-creator)
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijayhayagrivan2004-creator&theme=dark&bg_color=02000D&color=D9AA90&line=D9AA90&point=A65E46&area_color=07203F&area=true)](https://github.com/vijayhayagrivan2004-creator)
 
 </div>
 
@@ -113,56 +116,30 @@ I'm **Vijay Hayagrivan R**, a Mechatronics Engineering student interested in **E
 
 ## 🐍 Contribution Snake
 
+<!-- The Contribution Snake is generated automatically by .github/workflows/snake.yml and published to the output branch -->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 🎯 Learning Journey
+## 📚 Learning Journey
 
 <div align="center">
-
-| Area | Skills |
-|:---:|:---|
-| 💻 Programming | C • C++ • Python |
-| ⚙️ Embedded | Embedded C • ARM Cortex-M |
-| 🧩 Computer Science | Basic DSA |
-| 🔨 Build Tools | CMake |
-| 🌐 Version Control | Git • GitHub |
-| 🛠️ Development | VS Code • Linux Basics |
-| 🚀 Future | STM32 • RTOS • IoT • Firmware |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vijayhayagrivan-r-87839a392/">
-<img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vijayhayagrivan2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=111111"/>
-</a>
-
-<a href="https://github.com/vijayhayagrivan2004-creator">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Building today. Learning every day. Engineering tomorrow.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=120&section=footer" width="100%"/>
-
-</div>
