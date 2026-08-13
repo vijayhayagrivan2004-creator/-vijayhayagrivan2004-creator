@@ -140,6 +140,74 @@
 
 ---
 
-## 📚 Learning Journey
+## 🚀 Learning Journey
+
+C
+↓
+C++
+↓
+Python
+↓
+Embedded C
+↓
+ARM Cortex-M Basics
+↓
+Git + GitHub
+↓
+CMake
+↓
+Basic DSA
+↓
+┌─────────────────┐
+│ Learning Next │
+├─────────────────┤
+│ Embedded Systems│
+│ Firmware Dev │
+│ IoT │
+└─────────────────┘
+
+
+</div>
+
+---
 
 <div align="center">
+
+## 🏗️ What I'm Building
+
+I'm actively working on:
+
+- **Embedded Programming Projects** — Learning microcontroller programming with real hardware
+- **C/C++ Practice Projects** — Strengthening core programming fundamentals
+- **Python Utilities** — Building tools and automation scripts
+- **Hardware + Software Integration** — Exploring the intersection of embedded systems
+- **Version Control Workflows** — Mastering Git/GitHub for collaborative development
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-D9AA90?style=for-the-badge&logo=github&logoColor=02000D)](https://github.com/vijayhayagrivan2004-creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A65E46?style=for-the-badge&logo=linkedin&logoColor=EBDED4)](https://www.linkedin.com/in/vijayhayagrivan-r-87839a392/)
+[![Email](https://img.shields.io/badge/Email-D9AA90?style=for-the-badge&logo=gmail&logoColor=02000D)](mailto:vijayhayagrivan2004@gmail.com)
+
+</div>
+
+---
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=A65E46&height=150&section=footer&text=Building%20today.%20Learning%20every%20day.%20Engineering%20tomorrow.&fontSize=14&fontColor=EBDED4&desc=Let's%20build%20something%20great%20together&descSize=12&descAlignY=75)](https://github.com/vijayhayagrivan2004-creator)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Vijay Hayagrivan R**
+
+</div>
+
+
+---
