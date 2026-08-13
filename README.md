@@ -132,11 +132,11 @@ My current goal is to build a strong foundation in embedded programming and grad
 
 ## 📈 Contribution Activity
 
-<a href="https://github.com/vijayhayagrivan2004-creator">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayhayagrivan2004-creator&bg_color=02000D&color=EBDED4&line=D9AA90&point=A65E46&area=true&area_color=07203F&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-
-</a>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vijayhayagrivan2004-creator&bg_color=02000D&color=EBDED4&line=D9AA90&point=A65E46&area=true&area_color=07203F&hide_border=true"
+  width="95%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -145,13 +145,6 @@ My current goal is to build a strong foundation in embedded programming and grad
 <div align="center">
 
 ## 🐍 Contribution Snake
-
-<!--
-The Snake animation is generated automatically by:
-.github/workflows/snake.yml
-
-Generated files are published to the "output" branch.
--->
 
 <picture>
   <source
@@ -201,51 +194,3 @@ Embedded Systems
 Firmware Development
  ↓
 IoT
-</div>
-<div align="center">
-🏗️ What I'm Building
-<table> <tr> <td align="center" width="20%">
-💻
-
-C / C++
-
-Core programming & practice
-
-</td> <td align="center" width="20%">
-🐍
-
-Python
-
-Utilities & automation
-
-</td> <td align="center" width="20%">
-⚙️
-
-Embedded
-
-Embedded C & ARM foundations
-
-</td> <td align="center" width="20%">
-🔧
-
-Hardware + Software
-
-System integration
-
-</td> <td align="center" width="20%">
-🌐
-
-Git / GitHub
-
-Development workflows
-
-</td> </tr> </table> </div>
-<div align="center">
-📚 Learning Next
-<img src="https://img.shields.io/badge/Embedded%20Systems-07203F?style=for-the-badge&logoColor=EBDED4" alt="Embedded Systems"/> <img src="https://img.shields.io/badge/Firmware%20Development-07203F?style=for-the-badge&logoColor=EBDED4" alt="Firmware Development"/> <img src="https://img.shields.io/badge/IoT-A65E46?style=for-the-badge&logoColor=EBDED4" alt="IoT"/> </div>
-<div align="center">
-💬 Connect With Me
-<a href="https://github.com/vijayhayagrivan2004-creator"> <img src="https://img.shields.io/badge/GitHub-02000D?style=for-the-badge&logo=github&logoColor=EBDED4" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/vijayhayagrivan-r-87839a392/"> <img src="https://img.shields.io/badge/LinkedIn-07203F?style=for-the-badge&logo=linkedin&logoColor=EBDED4" alt="LinkedIn"/> </a> <a href="mailto:vijayhayagrivan2004@gmail.com"> <img src="https://img.shields.io/badge/Email-A65E46?style=for-the-badge&logo=gmail&logoColor=EBDED4" alt="Email"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=A65E46&height=150&section=footer&text=Building%20today.%20Learning%20every%20day.%20Engineering%20tomorrow.&fontSize=18&fontColor=EBDED4&desc=Vijay%20Hayagrivan%20R&descSize=14&descColor=D9AA90&descAlignY=78" width="100%" alt="Footer"/>
-Building today. Learning every day. Engineering tomorrow.
-</div> ```
