@@ -144,29 +144,27 @@ My current goal is to build a strong foundation in embedded programming and grad
 
 <div align="center">
 
+<div align="center">
+
 ## 🐍 Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/-vijayhayagrivan2004-creator/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/-vijayhayagrivan2004-creator/output/github-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/vijayhayagrivan2004-creator/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/vijayhayagrivan2004-creator/-vijayhayagrivan2004-creator/output/github-snake.svg"
     width="95%"
     alt="GitHub Contribution Snake"
   />
 </picture>
 
 </div>
-
----
-
-<div align="center">
 
 ## 🚀 Learning Journey
 
